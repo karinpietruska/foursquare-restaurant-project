@@ -1,5 +1,5 @@
 # foursquare_restaurant_project
-Foursquare project conducted in December 2019 to predict an optimal location for opening a restaurant with vegetarian and vegan cuisine in 
+Foursquare project conducted in December 2019 within the IBM Data Science Specialization to predict an optimal location for opening a restaurant with vegetarian and vegan cuisine in 
 Frankfurt am Main, Germany. 
 Programming Language: Python 
 
